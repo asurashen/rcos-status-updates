@@ -1,7 +1,9 @@
 ## Last Week's Accomplishments
 
-> Finishing proposal of HandsUp
+> Finishing proposal of HandsUp.
+
 > Attend 1 bounus session for absence.
+
 > Finish structure of powerpoint for presentation.
 
 ## This Week's Plan
