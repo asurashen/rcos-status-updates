@@ -7,6 +7,7 @@
 
 > Read some tutorial about Vue CLI
 > Understand basic developing knowleges for an application.
+> Starting working on read_me.
 
 ## Anything Blocking?
 
