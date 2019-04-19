@@ -5,6 +5,7 @@
 ## This Week's Plan
 
 > I decided to spend time on realizing how our project works, and the frame of basic web project.
+> Working on data structure of Syllabuild.
 
 ## Anything Blocking?
 
