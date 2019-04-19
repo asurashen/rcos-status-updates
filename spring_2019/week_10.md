@@ -8,6 +8,7 @@
 
 > Working on powepoint for presentation in next week.
 > Finishing propsal of Handsup.
+> Working on data structure.
 
 ## Anything Blocking?
 
