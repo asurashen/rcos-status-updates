@@ -7,6 +7,7 @@
 
 > After my accomplishments from last week, I plan to learn moren simple features of vue.js. 
 > and try to make some simple website as practicing.
+> Will start working on ducumentation from next week.
 
 ## Anything Blocking?
 
