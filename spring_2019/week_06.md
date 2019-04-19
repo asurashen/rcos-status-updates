@@ -1,7 +1,7 @@
 ## Last Week's Accomplishments
 
-> 
->
+> Finishing data structure.
+> Finish mid-term exams
 
 ## This Week's Plan
 
@@ -10,5 +10,5 @@
 
 ## Anything Blocking?
 
-> 
+> hard exams
 >
